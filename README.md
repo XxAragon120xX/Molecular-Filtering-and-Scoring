@@ -41,11 +41,3 @@ pip install -r requirements.txt
 1. Place your molecular dataset in the `data/` folder.
 2. Run the scripts in sequence or independently to filter and evaluate molecules.
 3. Output includes visualizations and scoring information.
-
-## License
-
-MIT License
-
-```
-
----
